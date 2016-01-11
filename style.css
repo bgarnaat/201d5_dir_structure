@@ -1,0 +1,11 @@
+.dir {
+  list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d6/Yellow_folder_icon_open.png);
+}
+
+.dir_close {
+  list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bd/GeoGebra_icon_Aux_folder.gif);
+}
+
+.file {
+  list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/c/cc/GeoGebra_icon_document_new.png);
+}
